@@ -5,8 +5,11 @@
 
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+  [![Awesome](https://cdn.rawgit.com/ishandutta2007/awesome-awesome-awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
+
 
   **A curated list of state-of-the-art Large Language Models (LLMs) featuring built-in reasoning, "Deep Thinking," and Chain-of-Thought (CoT) architectures.**
 </div>
