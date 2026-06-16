@@ -61,6 +61,20 @@ Chain-of-Thought (CoT) prompting has transitioned from a prompt engineering tric
 
 ---
 
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Chain-of-Thought&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Chain-of-Thought&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Chain-of-Thought&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Chain-of-Thought&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
+
+---
+
 <div align="center">
   <sub>Built with ❤️ for the AI community. Keywords: Chain-of-Thought, CoT, Reasoning LLMs, OpenAI o1, DeepSeek R1, AI Architecture, Deep Thinking.</sub>
 </div>
